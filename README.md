@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Salesforce Development
 - 💞️ I’m looking to collaborate on Admin And Dev related work
 - 📫 How to reach me tribhuvanade08@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
 
 <!---
 tribhu1-github/tribhu1-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
